@@ -1,0 +1,60 @@
+5️⃣ FACULTY QUALITY CONSOLE
+📄 quality_overview.php
+
+Shows:
+
+Unit
+
+Effectiveness
+
+Risk
+
+Impact count
+
+View button
+
+Neutral microcopy:
+
+These insights indicate early engagement patterns. They support instructional refinement.
+
+📄 unit_drilldown.php
+
+Displays:
+
+Drop-off graph
+
+Assessment distribution
+
+Engagement variance
+
+Comparison to course average
+
+Use Chart.js.
+
+📄 skill_impact_view.php
+
+Displays:
+
+Affected skills
+
+Structural impact score
+
+Dependent career roles
+
+Optional D3.js graph overlay.
+
+📄 remediation_panel.php
+
+Faculty can:
+
+Flag for revision
+
+Add supplemental material
+
+Request peer review
+
+Recompute analysis
+
+Logs into:
+
+content_revision_log
